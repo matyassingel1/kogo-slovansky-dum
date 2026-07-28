@@ -1,0 +1,5 @@
+:HL["/kogo-slovansky-dum/_next/static/chunks/1eb_k-f2_fybl.css","style"]
+:HL["/kogo-slovansky-dum/_next/static/media/Gotham_Bold-s.p.37torb43p4rkx.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/kogo-slovansky-dum/_next/static/media/Gotham_Book-s.p.03v8i4hxqrisy.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/kogo-slovansky-dum/_next/static/media/Gotham_Medium-s.p.1n_isgfm-5muo.otf","font",{"crossOrigin":"","type":"font/otf"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"filozofie","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"84hZ3nXQilK9AtVkuDonx"}
