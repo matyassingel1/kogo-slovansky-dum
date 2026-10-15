@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Neveřejné stránky pro eventy — rozesílají se odkazem klientům.
+Disallow: /udalosti/3-chodove-menu
+Disallow: /udalosti/4-chodove-menu
+Disallow: /udalosti/raut
+Disallow: /udalosti/objednavka

@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local deploy secrets
+.cloudflare.env
+cloudflare.env
+
+# pracovní soubory mimo web
+/_zaloha-puvodni-pdf/
+/KOGO-texty-webu.xlsx
+/*.png
+/--full-page
